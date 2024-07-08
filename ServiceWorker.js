@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-Month1Project-Escape-1.0";
+const cacheName = "NineHermits-Escape-1.0";
 const contentToCache = [
     "Build/build.loader.js",
     "Build/build.framework.js",
