@@ -1,9 +1,9 @@
-const cacheName = "NineHermits-Escape-1.0";
+const cacheName = "NineHermits-Escape-1.1";
 const contentToCache = [
     "Build/build.loader.js",
-    "Build/build.framework.js",
-    "Build/build.data",
-    "Build/build.wasm",
+    "Build/build.framework.js.unityweb",
+    "Build/build.data.unityweb",
+    "Build/build.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
